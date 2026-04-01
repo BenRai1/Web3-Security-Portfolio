@@ -80,8 +80,5 @@ All contests use **Certora Prover**. Covers EVM and Soroban/Stellar.
 ## Contact
 
 - X: [@BenRai_](https://x.com/BenRai_)
-- GitHub: [@BenRai1](https://github.com/BenRai1)
-- Cantina: [BenRai](https://cantina.xyz/u/BenRai)
-- Code4rena: [@BenRai](https://code4rena.com/@BenRai)
 
 

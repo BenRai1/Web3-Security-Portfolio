@@ -35,7 +35,7 @@ Independent smart contract auditor specializing in Solidity, Rust and Formal Ver
 ### Code4rena — [Profile](https://code4rena.com/@BenRai)
 
 | Contest                                                                                    | Rank   | H   | M   |
-| ---------------------------------------------------------------------------------------- | ------- | --- | --- | 
+| ------------------------------------------------------------------------------------- | ---------- | --- | --- | 
 | [GTE Perps/Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)       | 🥇 1st | —   | 7   | 
 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap)                              | 🥇 1st | 2   | 10  |
 | [NOYA](https://code4rena.com/audits/2024-04-noya)                                         | 🥇 1st | 8   | 22  | 

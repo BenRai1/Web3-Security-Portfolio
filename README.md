@@ -8,24 +8,24 @@ Independent smart contract auditor specializing in Solidity, Rust and Formal Ver
 ## Private Audits — Pashov Audit Group
 
 
-| Protocol      | Period              |
-| ------------- | ------------------- |
-| SXT           | Aug 2025            |
-| Mustang       | Sep 2025            |
-| Ouroboros     | Sep – Oct 2025      |
-| Anthias       | Oct 2025            |
-| Saffron       | Oct 2025            |
-| HypurrFi      | Oct – Nov 2025      |
-| RegnumFx      | Oct – Nov 2025      |
-| Nuclius       | Nov 2025            |
-| Regnum Aurum  | Nov – Dec 2025      |
-| Zoop          | Dec 2025            |
-| OlympusX      | Dec 2025 – Jan 2026 |
-| Nucleus V2    | Feb 2026            |
-| Ostium        | Feb 2026            |
-| Ample         | Feb 2026            |
-| ION Nucleus 3 | Mar 2026            |
-| Tensora       | Mar 2026            |
+| Protocol      | Period              | Ecosystem  | Language   |
+| ------------- | ------------------- | ------------------- | ------------------- |
+| DSPay         | Aug 2025            | SXT   | Solidity |
+| Mustang       | Sep 2025            | Saga EVM   | Solidity |
+| Ouroboros     | Sep – Oct 2025      | ETH / Base   | Solidity |
+| Anthias       | Oct 2025            | Hyperliquid   | Solidity |
+| Saffron       | Oct 2025            | Etherium   | Solidity |
+| HypurrFi      | Oct – Nov 2025      | Hyperliquid   | Solidity |
+| RegnumFx      | Oct – Nov 2025      | Etherium   | Solidity |
+| Nuclius       | Nov 2025            | EVM chains   | Solidity |
+| Regnum Aurum  | Nov – Dec 2025      | Etherium   | Solidity |
+| Zoop          | Dec 2025            | Hedera   | Solidity |
+| OlympusX      | Dec 2025 – Jan 2026 | Etherium   | Solidity |
+| Nucleus V2    | Feb 2026            | EVM chains   | Solidity |
+| Ostium        | Feb 2026            | Arbitrum   | Solidity |
+| Ample         | Feb 2026            | EVM chains   | Solidity |
+| ION Nucleus 3 | Mar 2026            | EVM chains   | Solidity |
+| Tensora       | Mar 2026            | Ethereum / Bittensor  | Solidity |
 
 
 ---
